@@ -7,7 +7,7 @@
  https://docs.unrealengine.com/4.26/en-US/InteractiveExperiences/Input/EnhancedInput/
  
  ### Concept
- As the traditional input system in UE becomes deprecated, it is advised to start using the new Enhanced Input. It lets the developer get more data from the user, handle complex inputs and implement runtime key remaps more easily. At the same time, GAS's abundance of boilerplate code can make the transision difficult. I created this project in hope you get to see and understand how to combine these two plugins together. At the same time, I recreated two Arkane Studios' DEATHLOOP abilities - Karnesis and Shift, to further demonstrate the implementation.
+ As the traditional input system in UE becomes deprecated, it is advised to start using the new Enhanced Input. It lets the developer get more data from the user, handle complex inputs and implement runtime key remaps more easily. At the same time, GAS's abundance of boilerplate code can make the inevitable transition difficult. I created this project in hope you get to see and understand how to combine these two plugins together. At the same time, I recreated two Arkane Studios' DEATHLOOP abilities - Karnesis and Shift, to further demonstrate the implementation.
 
 # If you have trouble with setting up GAS itself, please refer to my earlier repos and the documentation provided.
 
